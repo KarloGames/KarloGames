@@ -16,7 +16,8 @@ Trotz des Zusammenschlusses von **WeihnachtsKarlo.de** mit **HamsterGames.eu** e
 [![Website](https://img.shields.io/badge/🌍-Website-blue)](https://karlogames.de)
 [![Discord](https://img.shields.io/badge/💬-Discord-blueviolet)](https://discord.gg/vJrvdasKtY)
 [![YouTube](https://img.shields.io/badge/▶️-YouTube-red)](https://youtube.com/karlogames)
-[![TeamSpeak](https://img.shields.io/badge/🎧-TeamSpeak-2E8B57)](ts3server://dein-teamspeak-link)
+[![TeamSpeak](https://img.shields.io/badge/🎧-TeamSpeak-2E8B57)](ts3server://ts.karlogames.de)
+
 
 ---
 
